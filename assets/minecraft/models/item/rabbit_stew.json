@@ -1,0 +1,17 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/rabbit_stew"
+  },
+
+  "overrides": [
+    {
+        "predicate": { "custom_model_data": 1 },
+        "model": "item/rabbit_stew/1"
+    },
+    {
+        "predicate": { "custom_model_data": 2 },
+        "model": "item/rabbit_stew/2"
+    }
+  ]
+}

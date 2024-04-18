@@ -1,0 +1,121 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/blue_dye"
+  },
+
+    "overrides": [
+        {
+            "predicate": { "custom_model_data": 1 },
+            "model": "item/blue_dye/1"
+        },
+        {
+            "predicate": { "custom_model_data": 2 },
+            "model": "item/blue_dye/2"
+        },
+        {
+            "predicate": { "custom_model_data": 3 },
+            "model": "item/blue_dye/3"
+        },
+        {
+            "predicate": { "custom_model_data": 4 },
+            "model": "item/blue_dye/4"
+        },
+        {
+            "predicate": { "custom_model_data": 5 },
+            "model": "item/blue_dye/5"
+        },
+        {
+            "predicate": { "custom_model_data": 6 },
+            "model": "item/blue_dye/6"
+        },
+        {
+            "predicate": { "custom_model_data": 7 },
+            "model": "item/blue_dye/7"
+        },
+        {
+            "predicate": { "custom_model_data": 8 },
+            "model": "item/blue_dye/8"
+        },
+        {
+            "predicate": { "custom_model_data": 9 },
+            "model": "item/blue_dye/9"
+        },
+        {
+            "predicate": { "custom_model_data": 10 },
+            "model": "item/blue_dye/10"
+        },
+        {
+            "predicate": { "custom_model_data": 11 },
+            "model": "item/blue_dye/11"
+        },
+        {
+            "predicate": { "custom_model_data": 12 },
+            "model": "item/blue_dye/12"
+        },
+        {
+            "predicate": { "custom_model_data": 13 },
+            "model": "item/blue_dye/13"
+        },
+        {
+            "predicate": { "custom_model_data": 14 },
+            "model": "item/blue_dye/14"
+        },
+        {
+            "predicate": { "custom_model_data": 15 },
+            "model": "item/blue_dye/15"
+        },
+        {
+            "predicate": { "custom_model_data": 16 },
+            "model": "item/blue_dye/16"
+        },
+        {
+            "predicate": { "custom_model_data": 17 },
+            "model": "item/blue_dye/17"
+        },
+        {
+            "predicate": { "custom_model_data": 18 },
+            "model": "item/blue_dye/18"
+        },
+        {
+            "predicate": { "custom_model_data": 19 },
+            "model": "item/blue_dye/19"
+        },
+        {
+            "predicate": { "custom_model_data": 20 },
+            "model": "item/blue_dye/20"
+        },
+        {
+            "predicate": { "custom_model_data": 21 },
+            "model": "item/blue_dye/21"
+        },
+        {
+            "predicate": { "custom_model_data": 22 },
+            "model": "item/blue_dye/22"
+        },
+        {
+            "predicate": { "custom_model_data": 23 },
+            "model": "item/blue_dye/23"
+        },
+        {
+            "predicate": { "custom_model_data": 24 },
+            "model": "item/blue_dye/24"
+        },
+        {
+            "predicate": { "custom_model_data": 25 },
+            "model": "item/blue_dye/25"
+        },
+        {
+            "predicate": { "custom_model_data": 26 },
+            "model": "item/blue_dye/26"
+        },
+        {
+            "predicate": { "custom_model_data": 27 },
+            "model": "item/blue_dye/27"
+        },
+        {
+            "predicate": { "custom_model_data": 28 },
+            "model": "item/blue_dye/28"
+        }
+    ]
+}

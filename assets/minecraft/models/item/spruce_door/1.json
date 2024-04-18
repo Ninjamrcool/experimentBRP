@@ -1,0 +1,12 @@
+{
+	"parent": "item/generated",
+	"display": {
+		"gui": {
+		     "rotation": [ 0, 180, 0 ],
+			 "scale": [ 1.125, 1.125, 1.125]
+		}
+	},
+	"textures": {
+	  "layer0": "item/spruce_door/1"
+	}
+}

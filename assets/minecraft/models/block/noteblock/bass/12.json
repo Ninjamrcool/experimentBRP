@@ -1,0 +1,13 @@
+{
+	"parent": "block/cube",
+
+	"textures": {
+		"down": "block/noteblock/bass/6_bottom",
+		"up": "block/noteblock/bass/6_top",
+		"north": "block/noteblock/bass/6_side",
+		"south": "block/noteblock/bass/6_side",
+		"west": "block/noteblock/bass/6_side",
+		"east": "block/noteblock/bass/6_front",
+		"particle": "block/noteblock/bass/6_front"
+	}
+}

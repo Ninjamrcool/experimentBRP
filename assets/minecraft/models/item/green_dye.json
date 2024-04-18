@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/green_dye"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "item/green_dye/1"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "item/green_dye/2"
+    }
+
+  ]
+}

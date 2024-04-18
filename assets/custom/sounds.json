@@ -1,0 +1,78 @@
+{
+  "buzz": {
+    "category": "ambient",
+    "sounds": [ "custom:buzz" ]
+  },
+  "newwood1": {
+    "category": "block",
+    "sounds": [ "custom:newwood1" ]
+  },
+  "newwood2": {
+    "category": "block",
+    "sounds": [ "custom:newwood2" ]
+  },
+  "newwood3": {
+    "category": "block",
+    "sounds": [ "custom:newwood3" ]
+  },
+  "newwood4": {
+    "category": "block",
+    "sounds": [ "custom:newwood4" ]
+  },
+  "newwood5": {
+    "category": "block",
+    "sounds": [ "custom:newwood5" ]
+  },
+  "newwood6": {
+    "category": "block",
+    "sounds": [ "custom:newwood6" ]
+  },
+  "newwooddig1": {
+    "category": "block",
+    "sounds": [ "custom:newwooddig1" ]
+  },
+  "newwooddig2": {
+    "category": "block",
+    "sounds": [ "custom:newwooddig2" ]
+  },
+  "newwooddig3": {
+    "category": "block",
+    "sounds": [ "custom:newwooddig3" ]
+  },
+  "newwooddig4": {
+    "category": "block",
+    "sounds": [ "custom:newwooddig4" ]
+  },
+  "harpnew": {
+    "category": "block",
+    "sounds": [ "custom:harpnew" ]
+  },
+  "wrenchuse": {
+    "category": "block",
+    "sounds": [ "custom:wrenchuse" ]
+  },
+  "bassnew": {
+    "category": "block",
+    "sounds": [ "custom:bassnew" ]
+  },
+  "steamhiss": {
+    "category": "block",
+    "sounds": [ "custom:steamhiss" ]
+  },
+  "lightactivate": {
+    "category": "block",
+    "sounds": [ "custom:lightactivate" ]
+  },
+  "level1ambience": {
+    "category": "block",
+    "sounds": [ "custom:level1ambience" ]
+  },
+  "level2ambience": {
+    "category": "block",
+    "sounds": [ "custom:level2ambience" ]
+  }
+  
+}
+
+
+

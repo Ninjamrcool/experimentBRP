@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:item/ghast_tear/models/paintings/painting33",
+	"textures": {
+		"0": "item/ghast_tear/paintings/1003",
+		"1": "item/ghast_tear/paintings/back",
+		"particle": "item/ghast_tear/paintings/1003"
+	}
+}

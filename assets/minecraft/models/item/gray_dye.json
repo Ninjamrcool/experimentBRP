@@ -1,0 +1,231 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gray_dye"
+  },
+
+    "overrides": [
+        {
+            "predicate": { "custom_model_data": 1 },
+            "model": "item/gray_dye/1"
+        },
+        {
+            "predicate": { "custom_model_data": 2 },
+            "model": "item/gray_dye/2"
+        },
+        {
+            "predicate": { "custom_model_data": 3 },
+            "model": "item/gray_dye/3"
+        },
+        {
+            "predicate": { "custom_model_data": 4 },
+            "model": "item/gray_dye/4"
+        },
+        {
+            "predicate": { "custom_model_data": 5 },
+            "model": "item/gray_dye/5"
+        },
+        {
+            "predicate": { "custom_model_data": 6 },
+            "model": "item/gray_dye/6"
+        },
+        {
+            "predicate": { "custom_model_data": 7 },
+            "model": "item/gray_dye/7"
+        },
+        {
+            "predicate": { "custom_model_data": 8 },
+            "model": "item/gray_dye/8"
+        },
+        {
+            "predicate": { "custom_model_data": 9 },
+            "model": "item/gray_dye/9"
+        },
+        {
+            "predicate": { "custom_model_data": 10 },
+            "model": "item/gray_dye/10"
+        },
+        {
+            "predicate": { "custom_model_data": 11 },
+            "model": "item/gray_dye/11"
+        },
+        {
+            "predicate": { "custom_model_data": 12 },
+            "model": "item/gray_dye/12"
+        },
+        {
+            "predicate": { "custom_model_data": 13 },
+            "model": "item/gray_dye/13"
+        },
+        {
+            "predicate": { "custom_model_data": 14 },
+            "model": "item/gray_dye/14"
+        },
+        {
+            "predicate": { "custom_model_data": 15 },
+            "model": "item/gray_dye/15"
+        },
+        {
+            "predicate": { "custom_model_data": 16 },
+            "model": "item/gray_dye/16"
+        },
+        {
+            "predicate": { "custom_model_data": 17 },
+            "model": "item/gray_dye/17"
+        },
+        {
+            "predicate": { "custom_model_data": 18 },
+            "model": "item/gray_dye/18"
+        },
+        {
+            "predicate": { "custom_model_data": 19 },
+            "model": "item/gray_dye/19"
+        },
+        {
+            "predicate": { "custom_model_data": 20 },
+            "model": "item/gray_dye/20"
+        },
+        {
+            "predicate": { "custom_model_data": 21 },
+            "model": "item/gray_dye/21"
+        },
+        {
+            "predicate": { "custom_model_data": 22 },
+            "model": "item/gray_dye/22"
+        },
+        {
+            "predicate": { "custom_model_data": 23 },
+            "model": "item/gray_dye/23"
+        },
+        {
+            "predicate": { "custom_model_data": 24 },
+            "model": "item/gray_dye/24"
+        },
+        {
+            "predicate": { "custom_model_data": 25 },
+            "model": "item/gray_dye/25"
+        },
+        {
+            "predicate": { "custom_model_data": 26 },
+            "model": "item/gray_dye/26"
+        },
+        {
+            "predicate": { "custom_model_data": 27 },
+            "model": "item/gray_dye/27"
+        },
+        {
+            "predicate": { "custom_model_data": 28 },
+            "model": "item/gray_dye/28"
+        },
+        {
+            "predicate": { "custom_model_data": 29 },
+            "model": "item/gray_dye/29"
+        },
+        {
+            "predicate": { "custom_model_data": 30 },
+            "model": "item/gray_dye/30"
+        },
+        {
+            "predicate": { "custom_model_data": 31 },
+            "model": "item/gray_dye/31"
+        },
+        {
+            "predicate": { "custom_model_data": 32 },
+            "model": "item/gray_dye/32"
+        },
+        {
+            "predicate": { "custom_model_data": 33 },
+            "model": "item/gray_dye/33"
+        },
+        {
+            "predicate": { "custom_model_data": 34 },
+            "model": "item/gray_dye/34"
+        },
+        {
+            "predicate": { "custom_model_data": 35 },
+            "model": "item/gray_dye/35"
+        },
+        {
+            "predicate": { "custom_model_data": 36 },
+            "model": "item/gray_dye/36"
+        },
+        {
+            "predicate": { "custom_model_data": 37 },
+            "model": "item/gray_dye/37"
+        },
+        {
+            "predicate": { "custom_model_data": 38 },
+            "model": "item/gray_dye/38"
+        },
+        {
+            "predicate": { "custom_model_data": 39 },
+            "model": "item/gray_dye/39"
+        },
+        {
+            "predicate": { "custom_model_data": 40 },
+            "model": "item/gray_dye/40"
+        },
+        {
+            "predicate": { "custom_model_data": 41 },
+            "model": "item/gray_dye/41"
+        },
+        {
+            "predicate": { "custom_model_data": 42 },
+            "model": "item/gray_dye/42"
+        },
+        {
+            "predicate": { "custom_model_data": 43 },
+            "model": "item/gray_dye/43"
+        },
+        {
+            "predicate": { "custom_model_data": 44 },
+            "model": "item/gray_dye/44"
+        },
+        {
+            "predicate": { "custom_model_data": 45 },
+            "model": "item/gray_dye/45"
+        },
+        {
+            "predicate": { "custom_model_data": 46 },
+            "model": "item/gray_dye/46"
+        },
+        {
+            "predicate": { "custom_model_data": 47 },
+            "model": "item/gray_dye/47"
+        },
+        {
+            "predicate": { "custom_model_data": 48 },
+            "model": "item/gray_dye/48"
+        },
+        {
+            "predicate": { "custom_model_data": 49 },
+            "model": "item/gray_dye/49"
+        },
+        {
+            "predicate": { "custom_model_data":  50},
+            "model": "item/gray_dye/50"
+        },
+        {
+            "predicate": { "custom_model_data":  51},
+            "model": "item/gray_dye/51"
+        },
+        {
+            "predicate": { "custom_model_data":  52},
+            "model": "item/gray_dye/52"
+        },
+        {
+            "predicate": { "custom_model_data":  53},
+            "model": "item/gray_dye/53"
+        },
+        {"predicate": { "custom_model_data":  54}, "model": "item/gray_dye/54"},
+        {"predicate": { "custom_model_data":  55}, "model": "item/gray_dye/55"},
+        {"predicate": { "custom_model_data":  56}, "model": "item/gray_dye/56"},
+        {"predicate": { "custom_model_data":  57}, "model": "item/gray_dye/57"},
+        {"predicate": { "custom_model_data":  58}, "model": "item/gray_dye/58"},
+        {"predicate": { "custom_model_data":  59}, "model": "item/gray_dye/59"},
+        {"predicate": { "custom_model_data":  60}, "model": "item/gray_dye/60"},
+        {"predicate": { "custom_model_data":  61}, "model": "item/gray_dye/61"},
+        {"predicate": { "custom_model_data":  62}, "model": "item/gray_dye/62"}
+
+    ]
+}

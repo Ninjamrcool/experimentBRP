@@ -1,0 +1,13 @@
+{
+	"parent": "block/cube",
+
+	"textures": {
+		"down": "block/noteblock/banjo/7_side",
+		"up": "block/noteblock/banjo/7_side",
+		"north": "block/noteblock/banjo/7_front",
+		"south": "block/noteblock/banjo/7_front",
+		"west": "block/noteblock/banjo/7_side",
+		"east": "block/noteblock/banjo/7_side",
+		"particle": "block/noteblock/banjo/7_front"
+	}
+}

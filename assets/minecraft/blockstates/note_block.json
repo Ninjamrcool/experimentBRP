@@ -1,0 +1,540 @@
+{
+    "variants": {
+        "instrument=harp,note=0": [
+            {
+                "model": "block/noteblock/harp/0"
+            },
+            {
+                "model": "block/noteblock/harp/0",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/0",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/0",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=1": [
+            {
+                "model": "block/noteblock/harp/1"
+            },
+            {
+                "model": "block/noteblock/harp/1",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/1",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/1",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=2": [
+            {
+                "model": "block/noteblock/harp/2"
+            },
+            {
+                "model": "block/noteblock/harp/2",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/2",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/2",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=3": [
+            {
+                "model": "block/noteblock/harp/3"
+            },
+            {
+                "model": "block/noteblock/harp/3",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/3",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/3",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=4": [
+            {
+                "model": "block/noteblock/harp/4"
+            },
+            {
+                "model": "block/noteblock/harp/4",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/4",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/4",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=5": [
+            {
+                "model": "block/noteblock/harp/5"
+            },
+            {
+                "model": "block/noteblock/harp/5",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/5",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/5",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=6": [
+            {
+                "model": "block/noteblock/harp/6"
+            },
+            {
+                "model": "block/noteblock/harp/6",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/6",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/6",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=7": [
+            {
+                "model": "block/noteblock/harp/7"
+            },
+            {
+                "model": "block/noteblock/harp/7",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/7",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/7",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=8": [
+            {
+                "model": "block/noteblock/harp/8"
+            },
+            {
+                "model": "block/noteblock/harp/8",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/8",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/8",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=9": [
+            {
+                "model": "block/noteblock/harp/9"
+            },
+            {
+                "model": "block/noteblock/harp/9",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/9",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/9",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=10": [
+            {
+                "model": "block/noteblock/harp/10"
+            },
+            {
+                "model": "block/noteblock/harp/10",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/10",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/10",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=11": [
+            {
+                "model": "block/noteblock/harp/11"
+            },
+            {
+                "model": "block/noteblock/harp/11",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/11",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/11",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=12": [
+            {
+                "model": "block/noteblock/harp/12"
+            },
+            {
+                "model": "block/noteblock/harp/12",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/12",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/12",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=13": [
+            {
+                "model": "block/noteblock/harp/13"
+            },
+            {
+                "model": "block/noteblock/harp/13",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/13",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/13",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=14": [
+            {
+                "model": "block/noteblock/harp/14"
+            },
+            {
+                "model": "block/noteblock/harp/14",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/14",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/14",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=15": [
+            {
+                "model": "block/noteblock/harp/15"
+            },
+            {
+                "model": "block/noteblock/harp/15",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/harp/15",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/harp/15",
+                "y": 270
+            }
+        ],
+        "instrument=harp,note=16": [
+            {
+                "model": "block/noteblock/harp/16"
+            }
+        ],
+        "instrument=harp,note=17": [
+            {
+                "model": "block/noteblock/harp/17"
+            }
+        ],
+        "instrument=harp,note=18": [
+            {
+                "model": "block/noteblock/harp/18"
+            }
+        ],
+        "instrument=bass,note=0": [
+            {
+                "model": "block/noteblock/bass/0"
+            }
+        ],
+        "instrument=bass,note=1": [
+            {
+                "model": "block/noteblock/bass/1"
+            }
+        ],
+        "instrument=bass,note=2": [
+            {
+                "model": "block/noteblock/bass/2"
+            }
+        ],
+        "instrument=bass,note=3": [
+            {
+                "model": "block/noteblock/bass/3"
+            }
+        ],
+        "instrument=bass,note=4": [
+            {
+                "model": "block/noteblock/bass/4"
+            }
+        ],
+        "instrument=bass,note=5": [
+            {
+                "model": "block/noteblock/bass/5"
+            }
+        ],
+        "instrument=bass,note=6": [
+            {
+                "model": "block/noteblock/bass/6"
+            }
+        ],
+        "instrument=bass,note=7": [
+            {
+                "model": "block/noteblock/bass/7"
+            }
+        ],
+        "instrument=bass,note=8": [
+            {
+                "model": "block/noteblock/bass/8"
+            }
+        ],
+        "instrument=bass,note=9": [
+            {
+                "model": "block/noteblock/bass/9"
+            }
+        ],
+        "instrument=bass,note=10": [
+            {
+                "model": "block/noteblock/bass/10"
+            }
+        ],
+        "instrument=bass,note=11": [
+            {
+                "model": "block/noteblock/bass/11"
+            }
+        ],
+        "instrument=bass,note=12": [
+            {
+                "model": "block/noteblock/bass/12"
+            }
+        ],
+        "instrument=bass,note=13": [
+            {
+                "model": "block/noteblock/bass/13"
+            }
+        ],
+        "instrument=bass,note=14": [
+            {
+                "model": "block/noteblock/bass/14"
+            }
+        ],
+        "instrument=bass,note=15": [
+            {
+                "model": "block/noteblock/bass/15"
+            }
+        ],
+        "instrument=bass,note=16": [
+            {
+                "model": "block/noteblock/bass/16"
+            }
+        ],
+        "instrument=bass,note=17": [
+            {
+                "model": "block/noteblock/bass/17"
+            }
+        ],
+        "instrument=bass,note=18": [
+            {
+                "model": "block/noteblock/bass/18"
+            }
+        ],
+        "instrument=bass,note=19": [
+            {
+                "model": "block/noteblock/bass/19"
+            },
+            {
+                "model": "block/noteblock/bass/19",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/bass/19",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/bass/19",
+                "y": 270
+            }
+        ],
+        "instrument=bass,note=20": [
+            {
+                "model": "block/noteblock/bass/20"
+            }
+        ],
+        "instrument=bass,note=21": [
+            {
+                "model": "block/noteblock/bass/21"
+            }
+        ],
+        "instrument=bass,note=22": [
+            {
+                "model": "block/noteblock/bass/22"
+            }
+        ],
+        "instrument=bass,note=23": [
+            {
+                "model": "block/noteblock/bass/23"
+            }
+        ],
+        "instrument=bass,note=24": [
+            {
+                "model": "block/noteblock/bass/24"
+            }
+        ],
+        "instrument=banjo,note=0": [
+            {
+                "model": "block/noteblock/banjo/0_var1"
+            },
+            {
+                "model": "block/noteblock/banjo/0_var2"
+            },
+            {
+                "model": "block/noteblock/banjo/0_var3"
+            },
+            {
+                "model": "block/noteblock/banjo/0_var1",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/banjo/0_var2",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/banjo/0_var3",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/banjo/0_var1",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/banjo/0_var2",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/banjo/0_var3",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/banjo/0_var1",
+                "y": 270
+            },
+            {
+                "model": "block/noteblock/banjo/0_var2",
+                "y": 270
+            },
+            {
+                "model": "block/noteblock/banjo/0_var3",
+                "y": 270
+            }
+        ],
+        "instrument=banjo,note=1": [
+            {
+                "model": "block/noteblock/banjo/1_var1"
+            }
+        ],
+        "instrument=banjo,note=2": [
+            {
+                "model": "block/noteblock/banjo/1_var2"
+            }
+        ],
+        "instrument=banjo,note=3": [
+            {
+                "model": "block/noteblock/banjo/2"
+            }
+        ],
+        "instrument=banjo,note=4": [
+            {
+                "model": "block/noteblock/banjo/3"
+            }
+        ],
+        "instrument=banjo,note=5": [
+            {
+                "model": "block/noteblock/banjo/4"
+            }
+        ],
+        "instrument=banjo,note=6": [
+            {
+                "model": "block/noteblock/banjo/5"
+            }
+        ],
+        "instrument=banjo,note=7": [
+            {
+                "model": "block/noteblock/banjo/6"
+            }
+        ],
+        "instrument=banjo,note=8": [
+            {
+                "model": "block/noteblock/banjo/7_var1"
+            }
+        ],
+        "instrument=banjo,note=9": [
+            {
+                "model": "block/noteblock/banjo/7_var2"
+            }
+        ],
+        "instrument=banjo,note=10": [
+            {
+                "model": "block/noteblock/banjo/7_var3"
+            }
+        ],
+        "instrument=banjo,note=11": [
+            {
+                "model": "block/noteblock/banjo/8_var1"
+            }
+        ],
+        "instrument=banjo,note=12": [
+            {
+                "model": "block/noteblock/banjo/8_var2"
+            }
+        ],
+        "instrument=banjo,note=13": [
+            {
+                "model": "block/noteblock/banjo/9"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_helmet",
+        "layer1": "item/leather_helmet_overlay"
+    },
+
+    "overrides": [
+        {
+            "predicate": { "custom_model_data": 1 },
+            "model": "item/leather_helmet/1"
+        },
+        {
+            "predicate": { "custom_model_data": 2 },
+            "model": "item/leather_helmet/2"
+        },
+        {
+            "predicate": { "custom_model_data": 3 },
+            "model": "item/leather_helmet/3"
+        }
+    ]
+}

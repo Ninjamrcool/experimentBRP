@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/fire_charge"
+  },
+
+  "overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/fire_charge/1"},
+    {"predicate": {"custom_model_data":2}, "model": "item/fire_charge/2"}
+  ]
+}
