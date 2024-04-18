@@ -38,10 +38,6 @@
             "model": "item/gray_dye/8"
         },
         {
-            "predicate": { "custom_model_data": 9 },
-            "model": "item/gray_dye/9"
-        },
-        {
             "predicate": { "custom_model_data": 10 },
             "model": "item/gray_dye/10"
         },

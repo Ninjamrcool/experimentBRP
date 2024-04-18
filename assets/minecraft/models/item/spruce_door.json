@@ -6,8 +6,6 @@
 
   "overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "item/spruce_door/1"},
-		{"predicate": {"custom_model_data":2}, "model": "item/spruce_door/2"},
-		{"predicate": {"custom_model_data":3}, "model": "item/spruce_door/3"},
-		{"predicate": {"custom_model_data":4}, "model": "item/spruce_door/4"}
+		{"predicate": {"custom_model_data":2}, "model": "item/spruce_door/2"}
   ]
 }
