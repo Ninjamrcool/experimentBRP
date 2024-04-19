@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer0": "item/bread/14"
+	  "layer0": "expb:item/concrete_fish"
 	}
 }

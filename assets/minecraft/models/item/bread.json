@@ -7,60 +7,57 @@
 	"overrides": [
 		{
 			"predicate": { "custom_model_data": 1 },
-			"model": "item/bread/1"
+			"model": "expb:item/mini_royal_ration"
 		},
 		{
 			"predicate": { "custom_model_data": 2 },
-			"model": "item/bread/2"
+			"model": "expb:item/concrete_fish"
 		},
 		{
 			"predicate": { "custom_model_data": 3 },
-			"model": "item/bread/3"
+			"model": "expb:item/pizza"
 		},
 		{
 			"predicate": { "custom_model_data": 4 },
-			"model": "item/bread/4"
+			"model": "expb:item/cooked_concrete_fish"
 		},
 		{
 			"predicate": { "custom_model_data": 5 },
-			"model": "item/bread/5"
-		},
-		{
-			"predicate": { "custom_model_data": 5 },
-			"model": "item/bread/5"
+			"model": "expb:item/bread/orange"
 		},
 		{
 			"predicate": { "custom_model_data": 6 },
-			"model": "item/bread/6"
+			"model": "expb:item/burger"
 		},
 		{
 			"predicate": { "custom_model_data": 7 },
-			"model": "item/bread/7"
+			"model": "expb:item/sandwich"
 		},
 		{
 			"predicate": { "custom_model_data": 8 },
-			"model": "item/bread/8"
+			"model": "expb:item/chicken_drumstick"
 		},
 		{
 			"predicate": { "custom_model_data": 9 },
-			"model": "item/bread/9"
+			"model": "expb:item/lettuce_sandwich"
 		},
 		{
 			"predicate": { "custom_model_data": 10 },
-			"model": "item/bread/10"
+			"model": "expb:item/peach"
 		},
 		{
 			"predicate": { "custom_model_data": 11 },
-			"model": "item/bread/11"
+			"model": "expb:item/cooked_goldfish"
 		},
 		{
 			"predicate": { "custom_model_data": 12 },
-			"model": "item/bread/12"
+			"model": "expb:item/goldfish"
 		},
 		{
 			"predicate": { "custom_model_data": 13 },
-			"model": "item/bread/13"
+			"model": "expb:item/chocolate_bar"
 		},
-		{"predicate": { "custom_model_data": 14 },"model": "item/bread/14"}
+			{"predicate": { "custom_model_data": 14 },
+			"model": "expb:item/fries"}
 	]
 }
