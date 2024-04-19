@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer0": "item/arrow/1"
+	  "layer0": "expb:item/gui/close_button"
 	}
 }

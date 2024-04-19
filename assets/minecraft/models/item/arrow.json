@@ -6,11 +6,11 @@
 	"overrides": [
 		{
 			"predicate": { "custom_model_data": 1 },
-			"model": "item/arrow/1"
+			"model": "expb:item/pyroil_arrow"
 		},
 		{
 			"predicate": { "custom_model_data": 2 },
-			"model": "item/arrow/2"
+			"model": "expb:item/pointed_arrow"
 		}
 	]
 }

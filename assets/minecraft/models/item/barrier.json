@@ -5,6 +5,6 @@
   },
 
   "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/barrier/1"}
+		{"predicate": {"custom_model_data":1}, "model": "expb:item/gui/close_button"}
   ]
 }
