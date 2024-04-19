@@ -5,13 +5,13 @@
   },
 
   "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/nether_star/1"},
-    {"predicate": {"custom_model_data":2}, "model": "item/nether_star/2"},
-    {"predicate": {"custom_model_data":3}, "model": "item/nether_star/3"},
-    {"predicate": {"custom_model_data":4}, "model": "item/nether_star/4"},
-    {"predicate": {"custom_model_data":5}, "model": "item/nether_star/5"},
-    {"predicate": {"custom_model_data":6}, "model": "item/nether_star/6"},
-    {"predicate": {"custom_model_data":7}, "model": "item/nether_star/7"},
-    {"predicate": {"custom_model_data":8}, "model": "item/nether_star/8"}
+		{"predicate": {"custom_model_data":1}, "model": "expb:item/default_menu"},
+    {"predicate": {"custom_model_data":2}, "model": "expb:item/black_menu"},
+    {"predicate": {"custom_model_data":3}, "model": "expb:item/gilded_menu"},
+    {"predicate": {"custom_model_data":4}, "model": "expb:item/purple_menu"},
+    {"predicate": {"custom_model_data":5}, "model": "expb:item/construction_menu"},
+    {"predicate": {"custom_model_data":6}, "model": "expb:item/gray_phone"},
+    {"predicate": {"custom_model_data":7}, "model": "expb:item/blue_phone"},
+    {"predicate": {"custom_model_data":8}, "model": "expb:item/snake_phone"}
   ]
 }

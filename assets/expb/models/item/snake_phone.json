@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer0": "item/nether_star/8"
+	  "layer0": "expb:item/snake_phone"
 	}
 }
