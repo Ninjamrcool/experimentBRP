@@ -23,7 +23,7 @@
 		},
 		{
 			"predicate": { "custom_model_data": 5 },
-			"model": "expb:item/bread/orange"
+			"model": "expb:item/orange"
 		},
 		{
 			"predicate": { "custom_model_data": 6 },
