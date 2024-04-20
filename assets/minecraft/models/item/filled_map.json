@@ -6,6 +6,6 @@
     },
 
   "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/filled_map/1"}
+		{"predicate": {"custom_model_data":1}, "model": "expb:item/gui/missions_button"}
   ]
 }
