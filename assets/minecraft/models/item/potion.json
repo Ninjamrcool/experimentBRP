@@ -1,40 +1,81 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/potion_overlay",
-        "layer1": "item/potion"
+      "layer0": "item/potion_overlay",
+      "layer1": "item/potion"
     },
-
     "overrides": [
-        {
-            "predicate": { "custom_model_data": 1 },
-            "model": "item/potion/1"
+      {
+        "predicate": {
+          "custom_model_data": 1
         },
-        {
-            "predicate": { "custom_model_data": 2 },
-            "model": "item/potion/2"
+        "model": "expb:item/chocolate_milkshake"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 2
         },
-        {
-            "predicate": { "custom_model_data": 3 },
-            "model": "item/potion/3"
+        "model": "expb:item/smiler_fumes"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 3
         },
-        {
-            "predicate": { "custom_model_data": 4 },
-            "model": "item/potion/4"
+        "model": "expb:item/energy_drink"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 4
         },
-        {
-            "predicate": { "custom_model_data": 5 },
-            "model": "item/potion/5"
+        "model": "expb:item/unknown_yellow_potion"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5
         },
-        {
-            "predicate": { "custom_model_data": 6 },
-            "model": "item/potion/6"
+        "model": "expb:item/tea"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 6
         },
-        {"predicate": { "custom_model_data": 7 },"model": "item/potion/7"},
-        {"predicate": { "custom_model_data": 8 },"model": "item/potion/8"},
-        {"predicate": { "custom_model_data": 9 },"model": "item/potion/9"},
-        {"predicate": { "custom_model_data": 10 },"model": "item/potion/10"},
-        {"predicate": { "custom_model_data": 11 },"model": "item/potion/11"},
-        {"predicate": { "custom_model_data": 12 },"model": "item/potion/12"}
+        "model": "expb:item/4d_concoction"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 7
+        },
+        "model": "expb:item/magmaphobic_soda"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 8
+        },
+        "model": "expb:item/haste_brew"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 9
+        },
+        "model": "expb:item/water_jug"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 10
+        },
+        "model": "expb:item/stimulating_brew"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 11
+        },
+        "model": "expb:item/shadow_concoction"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 12
+        },
+        "model": "expb:item/unknown_blue_potion"
+      }
     ]
 }
