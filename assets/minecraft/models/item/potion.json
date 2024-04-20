@@ -27,7 +27,7 @@
         "predicate": {
           "custom_model_data": 4
         },
-        "model": "expb:item/unknown_yellow_potion"
+        "model": "expb:item/antidark_fumes"
       },
       {
         "predicate": {
@@ -75,7 +75,7 @@
         "predicate": {
           "custom_model_data": 12
         },
-        "model": "expb:item/unknown_blue_potion"
+        "model": "expb:item/ice_water"
       }
     ]
 }
