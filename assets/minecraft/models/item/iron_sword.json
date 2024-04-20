@@ -1,11 +1,11 @@
 {
-	"parent": "minecraft:item/handheld",
+	"parent": "item/handheld",
 	"textures": {
-	  "layer0": "minecraft:item/iron_sword"
+	  "layer0": "item/iron_sword"
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/makeshift_pistol"},
-		{"predicate": {"custom_model_data":2}, "model": "item/advanced_pistol"}
+		{"predicate": {"custom_model_data":1}, "model": "expb:item/makeshift_pistol"},
+		{"predicate": {"custom_model_data":2}, "model": "expb:item/advanced_pistol"}
 	]
 }

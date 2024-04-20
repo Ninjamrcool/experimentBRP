@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "item/iron_sword/1"
+		"layer0": "expb:item/advanced_pistol"
 	},
 	"display": {
 		"thirdperson_righthand": {
