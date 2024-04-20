@@ -5,6 +5,6 @@
   },
 
   "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/flint_and_steel/1"}
+		{"predicate": {"custom_model_data":1}, "model": "expb:item/flint_and_steel"}
   ]
 }
