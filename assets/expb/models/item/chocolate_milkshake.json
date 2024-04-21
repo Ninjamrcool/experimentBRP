@@ -1,6 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer1": "expb:item/chocolate_milkshake"
+		"layer0": "expb:item/chocolate_milkshake",
+		"layer1": "expb:item/chocolate_milkshake"
 	}
 }

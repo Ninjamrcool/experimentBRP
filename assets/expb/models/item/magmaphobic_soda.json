@@ -1,6 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer1": "expb:item/magmaphobic_soda"
+		"layer0": "expb:item/magmaphobic_soda",
+		"layer1": "expb:item/magmaphobic_soda"
 	}
 }

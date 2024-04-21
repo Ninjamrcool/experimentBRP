@@ -1,6 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer1": "expb:item/antidark_fumes"
+		"layer0": "expb:item/antidark_fumes",
+		"layer1": "expb:item/antidark_fumes"
 	}
 }

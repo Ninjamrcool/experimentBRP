@@ -1,6 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer1": "expb:item/tea"
+		"layer0": "expb:item/tea",
+	    "layer1": "expb:item/tea"
 	}
 }

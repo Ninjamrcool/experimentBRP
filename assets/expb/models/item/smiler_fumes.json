@@ -1,6 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer1": "expb:item/smiler_fumes"
+		"layer0": "expb:item/smiler_fumes",
+		"layer1": "expb:item/smiler_fumes"
 	}
 }

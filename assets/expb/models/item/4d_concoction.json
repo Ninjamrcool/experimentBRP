@@ -1,6 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer1": "expb:item/4d_concoction"
+		"layer0": "expb:item/4d_concoction",
+		"layer1": "expb:item/4d_concoction"
 	}
 }

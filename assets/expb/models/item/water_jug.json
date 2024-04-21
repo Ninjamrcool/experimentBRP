@@ -1,6 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer1": "expb:item/water_jug"
+    	"layer0": "expb:item/water_jug",
+	    "layer1": "expb:item/water_jug"
 	}
 }

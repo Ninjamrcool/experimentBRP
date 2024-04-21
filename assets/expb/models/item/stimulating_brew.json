@@ -1,6 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer1": "expb:item/stimulating_brew"
+		"layer0": "expb:item/stimulating_brew",
+		"layer1": "expb:item/stimulating_brew"
 	}
 }
