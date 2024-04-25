@@ -5,7 +5,7 @@
   },
 
   "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "expb:item/default_menu"},
+		{"predicate": {"custom_model_data":1}, "model": "expb:item/blue_menu"},
     {"predicate": {"custom_model_data":2}, "model": "expb:item/black_menu"},
     {"predicate": {"custom_model_data":3}, "model": "expb:item/gilded_menu"},
     {"predicate": {"custom_model_data":4}, "model": "expb:item/purple_menu"},
