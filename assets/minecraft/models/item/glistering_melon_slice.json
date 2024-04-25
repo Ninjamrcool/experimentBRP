@@ -7,10 +7,10 @@
   "overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "expb:item/firesalt_ingot"},
 		{"predicate": {"custom_model_data":2}, "model": "expb:item/bandage"},
-		{"predicate": {"custom_model_data":3}, "model": "expb:item/level_key1"},
-		{"predicate": {"custom_model_data":4}, "model": "expb:item/level_key0"},
-		{"predicate": {"custom_model_data":5}, "model": "expb:item/level_key2"},
-		{"predicate": {"custom_model_data":6}, "model": "expb:item/level_key24"},
-		{"predicate": {"custom_model_data":7}, "model": "expb:item/level_keyphi"}
+		{"predicate": {"custom_model_data":3}, "model": "expb:item/level_1_key"},
+		{"predicate": {"custom_model_data":4}, "model": "expb:item/level_0_key"},
+		{"predicate": {"custom_model_data":5}, "model": "expb:item/level_2_key"},
+		{"predicate": {"custom_model_data":6}, "model": "expb:item/level_24_key"},
+		{"predicate": {"custom_model_data":7}, "model": "expb:item/level_phi_key"}
   ]
 }
