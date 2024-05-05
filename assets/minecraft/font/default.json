@@ -459,6 +459,15 @@
                 "\uE032"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/recipesoverview.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE033"
+            ]
+        },
         //EMOJIS -----------------------------------------------------------------------------
 
         {
