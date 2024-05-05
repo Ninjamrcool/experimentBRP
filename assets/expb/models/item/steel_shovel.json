@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-	  "layer0": "item/diamond_pickaxe/2"
+	  "layer0": "expb:item/steel_shovel"
 	}
 }
