@@ -468,6 +468,15 @@
                 "\uE033"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/craftinglocked.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE034"
+            ]
+        },
         //EMOJIS -----------------------------------------------------------------------------
 
         {
