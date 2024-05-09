@@ -477,6 +477,15 @@
                 "\uE034"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/recipes_unlocks.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE035"
+            ]
+        },
         //EMOJIS -----------------------------------------------------------------------------
 
         {
