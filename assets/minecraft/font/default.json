@@ -486,6 +486,15 @@
                 "\uE035"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/experience_concentrator.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE036"
+            ]
+        },
         //EMOJIS -----------------------------------------------------------------------------
 
         {
