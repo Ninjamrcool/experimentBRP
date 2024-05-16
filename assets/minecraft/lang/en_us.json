@@ -4,5 +4,20 @@
   "block.minecraft.end_rod": "LED Light",
   "item.minecraft.quartz": "Quartz",
   "item.minecraft.experience_bottle": "Bottle of Experience",
-  "block.minecraft.lightning_rod": "Copper Pipe"
+  "block.minecraft.lightning_rod": "Copper Pipe",
+  "block.minecraft.chiseled_nether_bricks": "Chiseled Crimson Bricks",
+  "block.minecraft.cracked_nether_bricks": "Cracked Crimson Bricks",
+  "block.minecraft.nether_brick_fence": "Crimson Brick Fence",
+  "block.minecraft.nether_brick_slab": "Crimson Brick Slab",
+  "block.minecraft.nether_brick_stairs": "Crimson Brick Stairs",
+  "block.minecraft.nether_brick_wall": "Crimson Brick Wall",
+  "block.minecraft.nether_bricks": "Crimson Bricks",
+  "block.minecraft.nether_wart": "Crimson Wart",
+  "block.minecraft.nether_wart_block": "Crimson Wart Block",
+  "block.minecraft.red_nether_brick_slab": "Red Crimson Brick Slab",
+  "block.minecraft.red_nether_brick_stairs": "Red Crimson Brick Stairs",
+  "block.minecraft.red_nether_brick_wall": "Red Crimson Brick Wall",
+  "block.minecraft.red_nether_bricks": "Red Crimson Bricks",
+  "item.minecraft.nether_brick": "Crimson Brick",
+  "item.minecraft.nether_wart": "Crimson Wart"
 }
