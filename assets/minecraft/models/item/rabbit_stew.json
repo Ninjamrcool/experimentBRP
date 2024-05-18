@@ -12,6 +12,10 @@
     {
         "predicate": { "custom_model_data": 2 },
         "model": "expb:item/fruit_salad"
+    },
+    {
+        "predicate": { "custom_model_data": 3 },
+        "model": "expb:item/baked_beans"
     }
   ]
 }
