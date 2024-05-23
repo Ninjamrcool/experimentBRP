@@ -5,8 +5,8 @@
   },
 
   "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/diamond_shovel/1"},
-		{"predicate": {"custom_model_data":2}, "model": "item/diamond_shovel/2"}
+		{"predicate": {"custom_model_data":1}, "model": "expb:item/steel_shovel"},
+		{"predicate": {"custom_model_data":2}, "model": "expb:item/titanium_shovel"}
 
   ]
 }
