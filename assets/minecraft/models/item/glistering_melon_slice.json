@@ -12,7 +12,8 @@
 		{"predicate": {"custom_model_data":5}, "model": "expb:item/level_2_key"},
 		{"predicate": {"custom_model_data":6}, "model": "expb:item/level_24_key"},
 		{"predicate": {"custom_model_data":7}, "model": "expb:item/level_phi_key"},
-		{"predicate": {"custom_model_data":8}, "model": "expb:item/corroded_level_2_key"}
+		{"predicate": {"custom_model_data":8}, "model": "expb:item/corroded_level_2_key"},
+		{"predicate": {"custom_model_data":9}, "model": "expb:item/level_4_key"}
 		
   ]
 }
