@@ -251,7 +251,9 @@
         {"predicate": { "custom_model_data": 66 },"model": "item/phantom_membrane/66"},
         {"predicate": { "custom_model_data": 67 },"model": "item/phantom_membrane/67"},
         {"predicate": { "custom_model_data": 68 },"model": "item/phantom_membrane/68"},
-        {"predicate": { "custom_model_data": 69 },"model": "item/phantom_membrane/69"}
+        {"predicate": { "custom_model_data": 69 },"model": "item/phantom_membrane/69"},
+        {"predicate": { "custom_model_data": 70 },"model": "item/phantom_membrane/70"},
+        {"predicate": { "custom_model_data": 71 },"model": "item/phantom_membrane/71"}
 
     ]
 
