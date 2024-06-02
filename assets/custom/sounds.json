@@ -70,6 +70,10 @@
   "level2ambience": {
     "category": "block",
     "sounds": [ "custom:level2ambience" ]
+  },
+  "static_fadeinout": {
+    "category": "block",
+    "sounds": [ "custom:static_fadeinout" ]
   }
   
 }
