@@ -58,6 +58,11 @@
 			"model": "expb:item/chocolate_bar"
 		},
 			{"predicate": { "custom_model_data": 14 },
-			"model": "expb:item/fries"}
+			"model": "expb:item/fries"
+		},
+		{
+			"predicate": { "custom_model_data": 15 },
+			"model": "expb:item/potato_chips"
+		}		
 	]
 }
