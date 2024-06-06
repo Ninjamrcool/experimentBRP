@@ -13,11 +13,11 @@
     {"predicate": {"custom_model_data":10}, "model": "item/ghast_tear/10"},
     {"predicate": {"custom_model_data":11}, "model": "item/ghast_tear/11"},
     {"predicate": {"custom_model_data":12}, "model": "item/ghast_tear/12"},
+    {"predicate": {"custom_model_data":100}, "model": "item/ghast_tear/100"},
     {"predicate": {"custom_model_data":1000}, "model": "item/ghast_tear/1000"},
     {"predicate": {"custom_model_data":1001}, "model": "item/ghast_tear/1001"},
     {"predicate": {"custom_model_data":1002}, "model": "item/ghast_tear/1002"},
     {"predicate": {"custom_model_data":1003}, "model": "item/ghast_tear/1003"},
-    {"predicate": {"custom_model_data":1004}, "model": "item/ghast_tear/1004"},
-    {"predicate": {"custom_model_data":100}, "model": "item/ghast_tear/100"}
+    {"predicate": {"custom_model_data":1004}, "model": "item/ghast_tear/1004"}
   ]
 }
