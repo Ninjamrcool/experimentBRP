@@ -74,8 +74,15 @@
   "static_fadeinout": {
     "category": "block",
     "sounds": [ "custom:static_fadeinout" ]
+  },
+  "wayback_zap_1": {
+    "category": "block",
+    "sounds": [ "custom:wayback_zap_1" ]
+  },
+  "wayback_zap_2": {
+    "category": "block",
+    "sounds": [ "custom:wayback_zap_2" ]
   }
-  
 }
 
 
