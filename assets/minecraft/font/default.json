@@ -504,6 +504,15 @@
                 "\uE037"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/wayback_machine_recipes.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE038"
+            ]
+        },
         //EMOJIS -----------------------------------------------------------------------------
 
         {
