@@ -95,6 +95,7 @@
         {"predicate": { "custom_model_data": 27 },"model": "item/carrot_on_a_stick/27"},
         {"predicate": { "custom_model_data": 28 },"model": "item/carrot_on_a_stick/28"},
         {"predicate": { "custom_model_data": 29 },"model": "item/carrot_on_a_stick/29"},
-        {"predicate": { "custom_model_data": 30 },"model": "item/carrot_on_a_stick/30"}
+        {"predicate": { "custom_model_data": 30 },"model": "item/carrot_on_a_stick/30"},
+        {"predicate": { "custom_model_data": 31 },"model": "item/carrot_on_a_stick/31"}
     ]
 }
