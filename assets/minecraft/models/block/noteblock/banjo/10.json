@@ -1,0 +1,10 @@
+{
+	"parent": "block/cube_column",
+  
+	  "textures": {
+	  "side": "block/noteblock/banjo/10_side",
+	  "end": "block/noteblock/banjo/10_end"
+  
+  
+	  }
+  }
