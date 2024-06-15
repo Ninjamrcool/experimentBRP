@@ -513,6 +513,15 @@
                 "\uE038"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/disc_collection.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE039"
+            ]
+        },
         //EMOJIS -----------------------------------------------------------------------------
 
         {
