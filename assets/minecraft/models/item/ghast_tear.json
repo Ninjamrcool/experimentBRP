@@ -21,6 +21,7 @@
     {"predicate": {"custom_model_data":1003}, "model": "item/ghast_tear/1003"},
     {"predicate": {"custom_model_data":1004}, "model": "item/ghast_tear/1004"},
     {"predicate": {"custom_model_data":1005}, "model": "item/ghast_tear/1005"},
-    {"predicate": {"custom_model_data":1006}, "model": "item/ghast_tear/1006"}
+    {"predicate": {"custom_model_data":1006}, "model": "item/ghast_tear/1006"},
+    {"predicate": {"custom_model_data":1007}, "model": "item/ghast_tear/1007"}
   ]
 }
