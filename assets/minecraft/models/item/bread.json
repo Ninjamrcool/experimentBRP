@@ -63,6 +63,14 @@
 		{
 			"predicate": { "custom_model_data": 15 },
 			"model": "expb:item/potato_chips"
-		}		
+		},
+		{
+			"predicate": { "custom_model_data": 16 },
+			"model": "expb:item/raw_deathmoth_meat"
+		},
+		{
+			"predicate": { "custom_model_data": 17 },
+			"model": "expb:item/cooked_deathmoth_meat"
+		}	
 	]
 }
