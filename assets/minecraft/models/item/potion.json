@@ -76,6 +76,12 @@
           "custom_model_data": 12
         },
         "model": "expb:item/ice_water"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 13
+        },
+        "model": "expb:item/deathmoth_jelly"
       }
     ]
 }
