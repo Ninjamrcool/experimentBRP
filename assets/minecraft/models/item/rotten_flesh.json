@@ -6,6 +6,7 @@
 
   "overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "expb:item/hound_skin"},
-    {"predicate": {"custom_model_data":2}, "model": "expb:item/darkened_hound_skin"}
+    {"predicate": {"custom_model_data":2}, "model": "expb:item/darkened_hound_skin"},
+    {"predicate": {"custom_model_data":3}, "model": "expb:item/faceling_flesh"}
   ]
 }
