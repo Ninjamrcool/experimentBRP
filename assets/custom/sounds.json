@@ -47,6 +47,10 @@
     "category": "block",
     "sounds": [ "custom:harpnew" ]
   },
+  "harpnewlow": {
+    "category": "block",
+    "sounds": [ "custom:harpnewlow" ]
+  },
   "wrenchuse": {
     "category": "block",
     "sounds": [ "custom:wrenchuse" ]
