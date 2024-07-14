@@ -540,6 +540,11 @@
             {
                 "model": "block/noteblock/banjo/10"
             }
+        ],
+        "instrument=banjo,note=15": [
+            {
+                "model": "block/noteblock/banjo/11"
+            }
         ]
     }
 }

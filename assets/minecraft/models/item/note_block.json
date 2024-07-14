@@ -237,6 +237,10 @@
         {
             "predicate": { "custom_model_data": 59 },
             "model": "block/noteblock/banjo/10"
+        },
+        {
+            "predicate": { "custom_model_data": 60 },
+            "model": "block/noteblock/banjo/11"
         }
 
     ]
