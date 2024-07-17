@@ -555,6 +555,11 @@
             {
                 "model": "block/noteblock/banjo/13"
             }
+        ],
+        "instrument=banjo,note=18": [
+            {
+                "model": "block/noteblock/banjo/14"
+            }
         ]
     }
 }
