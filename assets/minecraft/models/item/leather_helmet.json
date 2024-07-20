@@ -6,17 +6,8 @@
     },
 
     "overrides": [
-        {
-            "predicate": { "custom_model_data": 1 },
-            "model": "item/leather_helmet/1"
-        },
-        {
-            "predicate": { "custom_model_data": 2 },
-            "model": "item/leather_helmet/2"
-        },
-        {
-            "predicate": { "custom_model_data": 3 },
-            "model": "item/leather_helmet/3"
-        }
+		    {"predicate": {"custom_model_data":1}, "model": "expb:item/steel_helmet"},
+        {"predicate": {"custom_model_data":2}, "model": "expb:item/titanium_helmet"},
+        {"predicate": {"custom_model_data":3}, "model": "expb:item/gas_mask"}
     ]
 }

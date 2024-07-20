@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "expb:item/steel_leggings",
+		"layer1": "expb:item/steel_leggings"
+	}
+}

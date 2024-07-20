@@ -6,7 +6,7 @@
     },
 
     "overrides": [
-		{"predicate": {"custom_model_data":1}, "model": "item/leather_leggings/1"},
-        {"predicate": {"custom_model_data":2}, "model": "item/leather_leggings/2"}
+		    {"predicate": {"custom_model_data":1}, "model": "expb:item/steel_leggings"},
+        {"predicate": {"custom_model_data":2}, "model": "expb:item/titanium_leggings"}
     ]
 }
