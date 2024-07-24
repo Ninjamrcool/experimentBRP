@@ -560,6 +560,26 @@
             {
                 "model": "block/noteblock/banjo/14"
             }
+        ],
+        "instrument=banjo,note=19": [
+            {
+                "model": "block/noteblock/banjo/15"
+            }
+        ],
+        "instrument=banjo,note=20": [
+            {
+                "model": "block/noteblock/banjo/16"
+            }
+        ],
+        "instrument=banjo,note=21": [
+            {
+                "model": "block/noteblock/banjo/17"
+            }
+        ],
+        "instrument=banjo,note=22": [
+            {
+                "model": "block/noteblock/banjo/18"
+            }
         ]
     }
 }
