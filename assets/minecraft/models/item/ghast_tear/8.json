@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:item/ghast_tear/models/smalllight",
-	"textures": {
-		"0": "item/ghast_tear/8",
-		"particle": "item/ghast_tear/8"
-	}
-}
