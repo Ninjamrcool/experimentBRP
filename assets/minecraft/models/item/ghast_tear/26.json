@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/ghast_tear/models/baseboard1",
+	"parent": "minecraft:item/ghast_tear/models/baseboard3",
 	"textures": {
 		"2": "item/ghast_tear/baseboards/lime",
 		"particle": "item/ghast_tear/baseboards/lime"

@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/ghast_tear/models/seat_cushion",
+	"textures": {
+		"0": "block/red_wool",
+		"particle": "block/red_wool"
+	}
+}
