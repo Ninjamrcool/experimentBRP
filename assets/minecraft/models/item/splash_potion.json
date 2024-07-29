@@ -6,6 +6,7 @@
     },
 
     "overrides": [
-          {"predicate": {"custom_model_data":1}, "model": "expb:item/smiler_repellent"}
+          {"predicate": {"custom_model_data":1}, "model": "expb:item/smiler_repellent"},
+          {"predicate": {"custom_model_data":2}, "model": "expb:item/splash_4d_concoction"}
     ]
 }

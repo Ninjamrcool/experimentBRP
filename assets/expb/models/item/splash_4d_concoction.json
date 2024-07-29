@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "expb:item/splash_4d_concoction",
+		"layer1": "expb:item/splash_4d_concoction"
+	}
+}
