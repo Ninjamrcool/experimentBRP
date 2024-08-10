@@ -17,6 +17,7 @@
 		{"predicate": {"custom_model_data":10}, "model": "expb:item/elevator_keycard"},
 		{"predicate": {"custom_model_data":11}, "model": "expb:item/level_-1_key"},
 		{"predicate": {"custom_model_data":12}, "model": "expb:item/level_5_key"},
-		{"predicate": {"custom_model_data":13}, "model": "expb:item/level_whiteout_key"}
+		{"predicate": {"custom_model_data":13}, "model": "expb:item/level_whiteout_key"},
+		{"predicate": {"custom_model_data":14}, "model": "expb:item/level_7_key"}
   ]
 }
