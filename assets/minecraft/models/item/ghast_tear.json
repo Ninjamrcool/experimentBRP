@@ -53,6 +53,7 @@
     {"predicate": {"custom_model_data":1007}, "model": "item/ghast_tear/1007"},
     {"predicate": {"custom_model_data":1008}, "model": "item/ghast_tear/1008"},
     {"predicate": {"custom_model_data":1009}, "model": "item/ghast_tear/1009"},
-    {"predicate": {"custom_model_data":1010}, "model": "item/ghast_tear/1010"}
+    {"predicate": {"custom_model_data":1010}, "model": "item/ghast_tear/1010"},
+    {"predicate": {"custom_model_data":1011}, "model": "item/ghast_tear/1011"}
   ]
 }
