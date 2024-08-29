@@ -86,6 +86,10 @@
   "wayback_zap_2": {
     "category": "block",
     "sounds": [ "custom:wayback_zap_2" ]
+  },
+  "flashlight_click": {
+    "category": "block",
+    "sounds": [ "custom:flashlight_click" ]
   }
 }
 
