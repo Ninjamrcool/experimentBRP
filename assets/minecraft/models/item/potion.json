@@ -82,6 +82,14 @@
           "custom_model_data": 13
         },
         "model": "expb:item/deathmoth_jelly"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 14
+        },
+        "model": "expb:item/luminescent_concoction"
       }
+
+      
     ]
 }
