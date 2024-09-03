@@ -8,6 +8,8 @@
     "overrides": [
 		    {"predicate": {"custom_model_data":1}, "model": "expb:item/steel_helmet"},
         {"predicate": {"custom_model_data":2}, "model": "expb:item/titanium_helmet"},
-        {"predicate": {"custom_model_data":3}, "model": "expb:item/gas_mask"}
+        {"predicate": {"custom_model_data":3}, "model": "expb:item/gas_mask"},
+        {"predicate": {"custom_model_data":4}, "model": "expb:item/basic_scuba_helmet"},
+        {"predicate": {"custom_model_data":5}, "model": "expb:item/advanced_scuba_helmet"}
     ]
 }
