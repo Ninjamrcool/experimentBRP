@@ -88,8 +88,12 @@
           "custom_model_data": 14
         },
         "model": "expb:item/luminescent_concoction"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 15
+        },
+        "model": "expb:item/oceansight_concoction"
       }
-
-      
     ]
 }
