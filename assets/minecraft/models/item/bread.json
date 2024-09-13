@@ -71,10 +71,22 @@
 		{
 			"predicate": { "custom_model_data": 17 },
 			"model": "expb:item/cooked_deathmoth_meat"
-		}	,
+		},
 		{
 			"predicate": { "custom_model_data": 18 },
 			"model": "expb:item/tiramisu"
+		},
+		{
+			"predicate": { "custom_model_data": 19 },
+			"model": "expb:item/bioluminescent_jumper"
+		},
+		{
+			"predicate": { "custom_model_data": 20 },
+			"model": "expb:item/guardian_koifish"
+		},
+		{
+			"predicate": { "custom_model_data": 21 },
+			"model": "expb:item/rejuvenating_bass"
 		}
 		
 	]
