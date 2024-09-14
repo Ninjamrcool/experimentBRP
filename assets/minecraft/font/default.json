@@ -522,6 +522,16 @@
                 "\uE039"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/key_duplication.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE03A"
+            ]
+        },
+
         //EMOJIS -----------------------------------------------------------------------------
 
         {
