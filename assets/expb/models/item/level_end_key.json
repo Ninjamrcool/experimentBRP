@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	  "layer0": "expb:item/level_end_key"
+	}
+}
