@@ -87,7 +87,10 @@
 		{
 			"predicate": { "custom_model_data": 21 },
 			"model": "expb:item/rejuvenating_bass"
+		},
+		{
+			"predicate": { "custom_model_data": 22 },
+			"model": "expb:item/dark_berries"
 		}
-		
 	]
 }
