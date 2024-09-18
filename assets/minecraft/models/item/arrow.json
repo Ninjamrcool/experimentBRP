@@ -11,6 +11,10 @@
 		{
 			"predicate": { "custom_model_data": 2 },
 			"model": "expb:item/pointed_arrow"
+		},
+		{
+			"predicate": { "custom_model_data": 3 },
+			"model": "expb:item/poison_arrow"
 		}
 	]
 }
