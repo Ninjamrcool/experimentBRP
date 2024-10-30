@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	  "layer0": "expb:item/tinys_trident"
+	  "layer0": "item/phantom_membrane/81"
 	}
 }
