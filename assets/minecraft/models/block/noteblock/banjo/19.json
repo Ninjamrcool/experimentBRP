@@ -1,0 +1,8 @@
+{
+	"parent": "block/noteblock/banjo/oxygen_crystal_concentrator_no_crystal",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "block/noteblock/banjo/19",
+		"particle": "block/noteblock/banjo/19"
+	}
+}
