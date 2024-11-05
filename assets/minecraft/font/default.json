@@ -531,6 +531,15 @@
                 "\uE03A"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/oxygen_crystal_concentrator.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE03B"
+            ]
+        },
 
         //EMOJIS -----------------------------------------------------------------------------
 
