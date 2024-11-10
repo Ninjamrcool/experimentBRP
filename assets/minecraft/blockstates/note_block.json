@@ -590,6 +590,16 @@
             {
                 "model": "block/noteblock/banjo/20"
             }
+        ],
+        "instrument=cow_bell,note=0": [
+            {
+                "model": "block/noteblock/cow_bell/0"
+            }
+        ],
+        "instrument=cow_bell,note=1": [
+            {
+                "model": "block/noteblock/cow_bell/1"
+            }
         ]
     }
 }
