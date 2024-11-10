@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/ghast_tear/models/coin_pile_1",
+	"textures": {
+		"0": "item/ghast_tear/105_106",
+		"particle": "item/ghast_tear/105_106"
+	}
+}
