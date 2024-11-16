@@ -94,6 +94,7 @@
           "custom_model_data": 15
         },
         "model": "expb:item/oceansight_concoction"
-      }
+      },
+      {"predicate": {"custom_model_data": 16},"model": "expb:item/deathmoth_acid"}
     ]
 }
