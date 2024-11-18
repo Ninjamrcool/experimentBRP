@@ -15,6 +15,13 @@
           "max_inclusive": 22
         },
         "directory": "1.20.4_and_below"
+      },
+      {
+        "formats": {
+          "min_inclusive": 32,
+          "max_inclusive": 34
+        },
+        "directory": "1.20.5_to_1.21.1"
       }
     ]
   }
