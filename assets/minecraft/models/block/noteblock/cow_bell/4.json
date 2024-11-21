@@ -1,0 +1,13 @@
+{
+	"parent": "block/cube",
+
+	"textures": {
+		"down": "block/noteblock/cow_bell/4_top",
+		"up": "block/noteblock/cow_bell/4_top",
+		"north": "block/noteblock/cow_bell/4_side",
+		"south": "block/noteblock/cow_bell/4_side",
+		"west": "block/noteblock/cow_bell/4_side",
+		"east": "block/noteblock/cow_bell/4_side",
+		"particle": "block/noteblock/cow_bell/4_side"
+	}
+}
