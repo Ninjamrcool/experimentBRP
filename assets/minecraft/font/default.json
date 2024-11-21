@@ -725,7 +725,20 @@
             "chars": [
                 "\uEBAC"
             ]
+        },
+
+        //Other Stuff -----------------------------------------------------------------------------
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/other_stuff/afk.png",
+            "ascent": 10,
+            "height": 13,
+            "chars": [
+                "\uE300"
+            ]
         }
+        
 
 
     ]
