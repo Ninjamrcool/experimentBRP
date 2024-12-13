@@ -6,6 +6,7 @@
 
   "overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "expb:item/steel_sword"},
-		{"predicate": {"custom_model_data":2}, "model": "expb:item/titanium_sword"}
+		{"predicate": {"custom_model_data":2}, "model": "expb:item/titanium_sword"},
+		{"predicate": {"custom_model_data":3}, "model": "expb:item/ancient_hammer"}
   ]
 }
