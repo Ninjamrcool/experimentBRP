@@ -300,7 +300,8 @@
         {"predicate": { "custom_model_data": 67 },"model": "item/rabbit_foot/67"},
         {"predicate": { "custom_model_data": 68 },"model": "item/rabbit_foot/68"},
         {"predicate": { "custom_model_data": 69 },"model": "item/rabbit_foot/69"},
-        {"predicate": { "custom_model_data": 70 },"model": "item/rabbit_foot/70"}
+        {"predicate": { "custom_model_data": 70 },"model": "item/rabbit_foot/70"},
+        {"predicate": { "custom_model_data": 71 },"model": "item/rabbit_foot/71"}
     ]
 
   
