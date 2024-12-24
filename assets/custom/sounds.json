@@ -90,6 +90,18 @@
   "flashlight_click": {
     "category": "block",
     "sounds": [ "custom:flashlight_click" ]
+  },
+  "knock_wall": {
+    "category": "block",
+    "sounds": [ "custom:knock_wall" ]
+  },
+  "wind_ambience": {
+    "category": "block",
+    "sounds": [ "custom:wind_ambience" ]
+  },
+  "phantom_party_chatter": {
+    "category": "block",
+    "sounds": [ "custom:phantom_party_chatter" ]
   }
 }
 
