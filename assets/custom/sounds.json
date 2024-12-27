@@ -102,6 +102,38 @@
   "phantom_party_chatter": {
     "category": "block",
     "sounds": [ "custom:phantom_party_chatter" ]
+  },
+  "distant_metal": {
+    "category": "block",
+    "sounds": [ "custom:distant_metal" ]
+  },
+  "distant_thunder": {
+    "category": "block",
+    "sounds": [ "custom:distant_thunder" ]
+  },
+  "level_6_ambience": {
+    "category": "block",
+    "sounds": [ "custom:level_6_ambience" ]
+  },
+  "low_sanity": {
+    "category": "block",
+    "sounds": [ "custom:low_sanity" ]
+  },
+  "metal_hit_1": {
+    "category": "block",
+    "sounds": [ "custom:metal_hit_1" ]
+  },
+  "metal_hit_2": {
+    "category": "block",
+    "sounds": [ "custom:metal_hit_2" ]
+  },
+  "metal_hit_3": {
+    "category": "block",
+    "sounds": [ "custom:metal_hit_3" ]
+  },
+  "metal_hit_4": {
+    "category": "block",
+    "sounds": [ "custom:metal_hit_4" ]
   }
 }
 
