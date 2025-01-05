@@ -540,6 +540,15 @@
                 "\uE03B"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/referral_rewards.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE03C"
+            ]
+        },
 
         //EMOJIS -----------------------------------------------------------------------------
 
