@@ -12,6 +12,7 @@
     {"predicate": {"custom_model_data":5}, "model": "expb:item/construction_menu"},
     {"predicate": {"custom_model_data":6}, "model": "expb:item/gray_phone"},
     {"predicate": {"custom_model_data":7}, "model": "expb:item/blue_phone"},
-    {"predicate": {"custom_model_data":8}, "model": "expb:item/snake_phone"}
+    {"predicate": {"custom_model_data":8}, "model": "expb:item/snake_phone"},
+    {"predicate": {"custom_model_data":9}, "model": "expb:item/red_menu"}
   ]
 }
