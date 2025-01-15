@@ -246,7 +246,8 @@
         {"predicate": { "custom_model_data":  84}, "model": "item/gray_dye/84"},
         {"predicate": { "custom_model_data":  85}, "model": "item/gray_dye/85"},
         {"predicate": { "custom_model_data":  86}, "model": "item/gray_dye/86"},
-        {"predicate": { "custom_model_data":  87}, "model": "item/gray_dye/87"}
+        {"predicate": { "custom_model_data":  87}, "model": "item/gray_dye/87"},
+        {"predicate": { "custom_model_data":  88}, "model": "item/gray_dye/88"}
 
     ]
 }
