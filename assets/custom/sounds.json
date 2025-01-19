@@ -138,6 +138,18 @@
   "metal_hit_4": {
     "category": "block",
     "sounds": [ "custom:metal_hit_4" ]
+  },
+  "computer_humming": {
+    "category": "block",
+    "sounds": [ "custom:computer_humming" ]
+  },
+  "activate": {
+    "category": "block",
+    "sounds": [ "custom:activate" ]
+  },
+  "distant_people": {
+    "category": "block",
+    "sounds": [ "custom:distant_people" ]
   }
 }
 
