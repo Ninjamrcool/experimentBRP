@@ -150,6 +150,14 @@
   "distant_people": {
     "category": "block",
     "sounds": [ "custom:distant_people" ]
+  },
+  "beach_ambience": {
+    "category": "block",
+    "sounds": [ "custom:beach_ambience" ]
+  },
+  "ocean_ambience": {
+    "category": "block",
+    "sounds": [ "custom:ocean_ambience" ]
   }
 }
 
