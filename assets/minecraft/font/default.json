@@ -549,6 +549,15 @@
                 "\uE03C"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/fake_realities.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE03D"
+            ]
+        },
 
         //EMOJIS -----------------------------------------------------------------------------
 
