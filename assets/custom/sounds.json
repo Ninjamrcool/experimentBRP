@@ -158,8 +158,9 @@
   "ocean_ambience": {
     "category": "block",
     "sounds": [ "custom:ocean_ambience" ]
+  },
+  "night_ambience": {
+    "category": "block",
+    "sounds": [ "custom:night_ambience" ]
   }
 }
-
-
-
