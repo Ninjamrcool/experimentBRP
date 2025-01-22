@@ -558,6 +558,15 @@
                 "\uE03D"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/end_powers.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE03E"
+            ]
+        },
 
         //EMOJIS -----------------------------------------------------------------------------
 

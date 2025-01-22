@@ -250,7 +250,9 @@
         {"predicate": { "custom_model_data":  88}, "model": "item/gray_dye/88"},
         {"predicate": { "custom_model_data":  89}, "model": "item/gray_dye/89"},
         {"predicate": { "custom_model_data":  90}, "model": "item/gray_dye/90"},
-        {"predicate": { "custom_model_data":  91}, "model": "item/gray_dye/91"}
+        {"predicate": { "custom_model_data":  91}, "model": "item/gray_dye/91"},
+        {"predicate": { "custom_model_data":  92}, "model": "item/gray_dye/92"},
+        {"predicate": { "custom_model_data":  93}, "model": "item/gray_dye/93"}
 
     ]
 }
