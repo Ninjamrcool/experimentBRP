@@ -162,5 +162,9 @@
   "night_ambience": {
     "category": "block",
     "sounds": [ "custom:night_ambience" ]
+  },
+  "alarm": {
+    "category": "block",
+    "sounds": [ "custom:alarm" ]
   }
 }
