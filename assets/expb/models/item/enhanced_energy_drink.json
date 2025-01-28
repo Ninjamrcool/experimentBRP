@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "expb:item/enhanced_energy_drink",
+		"layer1": "expb:item/enhanced_energy_drink"
+	}
+}

@@ -96,6 +96,7 @@
         "model": "expb:item/oceansight_concoction"
       },
       {"predicate": {"custom_model_data": 16},"model": "expb:item/deathmoth_acid"},
-      {"predicate": {"custom_model_data": 17},"model": "expb:item/liminal_milkshake"}
+      {"predicate": {"custom_model_data": 17},"model": "expb:item/liminal_milkshake"},
+      {"predicate": {"custom_model_data": 18},"model": "expb:item/enhanced_energy_drink"}
     ]
 }
