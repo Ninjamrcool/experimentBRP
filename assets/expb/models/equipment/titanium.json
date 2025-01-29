@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "expb:titanium"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "expb:titanium"
+        }
+      ]
+    }
+  }
