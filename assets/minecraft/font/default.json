@@ -567,6 +567,15 @@
                 "\uE03E"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player_factions.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE03F"
+            ]
+        },
 
         //EMOJIS -----------------------------------------------------------------------------
 
