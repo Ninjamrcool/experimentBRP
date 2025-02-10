@@ -569,11 +569,38 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/player_factions.png",
+            "file": "minecraft:font/player_factions_info.png",
             "ascent": -4,
             "height": 108,
             "chars": [
                 "\uE03F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player_factions.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player_factions_generic.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player_factions_creation.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE042"
             ]
         },
 
