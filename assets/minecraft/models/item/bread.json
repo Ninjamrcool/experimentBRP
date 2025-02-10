@@ -91,6 +91,10 @@
 		{
 			"predicate": { "custom_model_data": 22 },
 			"model": "expb:item/dark_berries"
+		},
+		{
+			"predicate": { "custom_model_data": 23 },
+			"model": "expb:item/guava"
 		}
 	]
 }
