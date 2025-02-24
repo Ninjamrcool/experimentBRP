@@ -1,0 +1,8 @@
+{
+  "parent": "block/noteblock/cow_bell/faction_stand",
+
+	"textures": {
+		"1": "block/noteblock/cow_bell/6",
+		"particle": "block/noteblock/cow_bell/6"
+	}
+}
