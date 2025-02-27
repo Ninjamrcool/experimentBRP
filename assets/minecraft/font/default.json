@@ -612,6 +612,15 @@
                 "\uE043"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/experience_conversion.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE044"
+            ]
+        },
 
         //EMOJIS -----------------------------------------------------------------------------
 
