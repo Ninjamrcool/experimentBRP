@@ -621,6 +621,15 @@
                 "\uE044"
             ]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/player_stats.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE045"
+            ]
+        },
 
         //EMOJIS -----------------------------------------------------------------------------
 
