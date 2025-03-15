@@ -22,6 +22,7 @@
 		{"predicate": {"custom_model_data":15}, "model": "expb:item/level_6_key"},
 		{"predicate": {"custom_model_data":16}, "model": "expb:item/mimicry_key"},
 		{"predicate": {"custom_model_data":17}, "model": "expb:item/level_end_key"},
-		{"predicate": {"custom_model_data":18}, "model": "expb:item/level_run_key"}
+		{"predicate": {"custom_model_data":18}, "model": "expb:item/level_run_key"},
+		{"predicate": {"custom_model_data":19}, "model": "expb:item/level_fun_key"}
   ]
 }
