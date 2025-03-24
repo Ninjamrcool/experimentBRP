@@ -625,6 +625,11 @@
             {
                 "model": "block/noteblock/cow_bell/6"
             }
+        ],
+        "instrument=cow_bell,note=7": [
+            {
+                "model": "block/noteblock/cow_bell/7"
+            }
         ]
     }
 }
