@@ -166,5 +166,13 @@
   "alarm": {
     "category": "block",
     "sounds": [ "custom:alarm" ]
+  },
+  "banjonew": {
+    "category": "block",
+    "sounds": [ "custom:banjonew" ]
+  },
+  "cow_bell_new": {
+    "category": "block",
+    "sounds": [ "custom:cow_bell_new" ]
   }
 }
