@@ -47,7 +47,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/faction.png",
+            "file": "minecraft:font/npc_factions.png",
             "ascent": -4,
             "height": 108,
             "chars": [
@@ -628,6 +628,15 @@
             "height": 108,
             "chars": [
                 "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/factions.png",
+            "ascent": -4,
+            "height": 108,
+            "chars": [
+                "\uE046"
             ]
         },
 
