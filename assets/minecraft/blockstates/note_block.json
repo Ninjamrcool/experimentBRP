@@ -652,6 +652,11 @@
                 "model": "block/noteblock/cow_bell/9",
                 "y": 270
             }
+        ],
+        "instrument=cow_bell,note=10": [
+            {
+                "model": "block/noteblock/cow_bell/10"
+            }
         ]
     }
 }
