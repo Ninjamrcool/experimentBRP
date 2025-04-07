@@ -309,6 +309,10 @@
         {
             "predicate": { "custom_model_data": 77 },
             "model": "block/noteblock/cow_bell/8"
+        },
+        {
+            "predicate": { "custom_model_data": 78 },
+            "model": "block/noteblock/cow_bell/9"
         }
 
     ]

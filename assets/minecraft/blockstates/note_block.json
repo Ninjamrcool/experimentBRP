@@ -635,6 +635,23 @@
             {
                 "model": "block/noteblock/cow_bell/8"
             }
+        ],
+        "instrument=cow_bell,note=9": [
+            {
+                "model": "block/noteblock/cow_bell/9"
+            },
+            {
+                "model": "block/noteblock/cow_bell/9",
+                "y": 90
+            },
+            {
+                "model": "block/noteblock/cow_bell/9",
+                "y": 180
+            },
+            {
+                "model": "block/noteblock/cow_bell/9",
+                "y": 270
+            }
         ]
     }
 }
