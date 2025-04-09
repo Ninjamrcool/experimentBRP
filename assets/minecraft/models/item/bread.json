@@ -95,6 +95,10 @@
 		{
 			"predicate": { "custom_model_data": 23 },
 			"model": "expb:item/guava"
+		},
+		{
+			"predicate": { "custom_model_data": 24 },
+			"model": "expb:item/noclip_fruit"
 		}
 	]
 }
